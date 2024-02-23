@@ -1,0 +1,18 @@
+.container{
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 70px;
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.links{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
